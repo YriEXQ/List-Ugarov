@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\exz.desktop-pqago3v\source\repos\list_ugarov\list_ugarov\header.h(160): warning C4715: 'cList::Method': not all control paths return a value
+  List_Ugarov.vcxproj -> C:\Users\EXZ.DESKTOP-PQAGO3V\source\repos\List_Ugarov\Debug\List_Ugarov.exe
